@@ -1,0 +1,31 @@
+/* CSS Document */
+
+.clr{
+	clear: both;
+}
+
+
+.block{
+	float: left;
+	width: 33.3%;
+	/*border: 1px solid #333; */
+	padding:10px;
+	box-sizing: border-box;
+}
+
+
+#main-block{
+	float: left;
+	width:70%;
+	padding: 15px
+	box-sizing: border-box;
+}
+
+#sidebar{
+	float: left;
+	width: 30%;
+	background-color:#333;
+	color: #fff;
+	padding: 15px;
+	box-sizing: border-box;
+}
